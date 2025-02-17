@@ -3,7 +3,7 @@
 **Data Analyst | Business Intelligence Enthusiast | Turning Insights into Action**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Chukwuemekachinyere0307@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)((https://www.linkedin.com/in/chinyere-chukwuemeka-514b89321/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/chinyere-chukwuemeka-514b89321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=flat&logo=github)](https://yourportfolio.com)
 
 ---
