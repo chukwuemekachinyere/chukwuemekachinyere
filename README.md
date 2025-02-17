@@ -3,8 +3,7 @@
 **Data Analyst | Business Intelligence Enthusiast | Turning Insights into Action**
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Chukwuemekachinyere0307@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/chinyere-chukwuemeka-514b89321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=flat&logo=github)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chinyere-chukwuemeka-514b89321/)
 
 ---
 
@@ -26,23 +25,23 @@
 
 ## 🚀 Featured Projects
 
-1. **Sales Performance Dashboard** 
- - Created interactive Power BI dashboard tracking $2M+ annual sales
- - Implemented DAX calculations for YOY growth analysis
- - [View Project](https://github.com/yourprofile/sales-dashboard)
+1. **Mavin Sales Analysis Dashboard** 
+ - Developed comprehensive sales performance dashboard using Power BI
+ - Analyzed regional sales trends and product performance metrics
+ - [View Project](https://github.com/chukwuemekachinyere/Mavin-Sales-Report)
 
-2. **Inventory Optimization Analysis** 
- - SQL-driven analysis reducing stockouts by 35%
- - Developed Excel forecasting models with 92% accuracy
- - [Explore Code](https://github.com/yourprofile/inventory-analysis)
+2. **Flight Data Analysis Report** 
+ - Processed and visualized flight delay patterns using Excel
+ - Identified key factors impacting airline punctuality
+ - [Explore Analysis](https://github.com/chukwuemekachinyere/Flight-Report-Analysis)
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Chinyere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vchukwuemekachinyere&show_icons=true&theme=radical)](https://github.com/vchukwuemekachinyere)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukwuemekachinyere&show_icons=true&theme=radical)](https://github.com/chukwuemekachinyere)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vchukwuemekachinyere&layout=compact&theme=vision-friendly-dark)](https://github.com/vchukwuemekachinyere)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuemekachinyere&layout=compact&theme=vision-friendly-dark)](https://github.com/chukwuemekachinyere)
 
 ---
 
@@ -50,8 +49,7 @@
 
 - 💼 **Open to:** Data Analyst & Business Intelligence Roles
 - 📧 **Email:** [Chukwuemekachinyere0307@gmail.com](mailto:Chukwuemekachinyere0307@gmail.com)
-- 💬 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/yourprofile)
-- 🐦 **Twitter:** [Follow me](https://twitter.com/yourhandle)
+- 💬 **LinkedIn:** [Connect Professionaly](https://www.linkedin.com/in/chinyere-chukwuemeka-514b89321/)
 
 ---
 
